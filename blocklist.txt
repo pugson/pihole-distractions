@@ -11,3 +11,4 @@ youtube.com
 api.farcaster.xyz
 farcaster.xyz
 explorer.farcaster.xyz
+discove.xyz
