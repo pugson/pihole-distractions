@@ -12,6 +12,7 @@ redditmedia.com
 redditstatic.com
 discord.com
 youtube.com
+www.youtube.com
 api.farcaster.xyz
 farcaster.xyz
 explorer.farcaster.xyz
