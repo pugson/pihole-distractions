@@ -1,0 +1,13 @@
+# Personal blocklist of distractions while working
+# https://github.com/pugson/pihole-distractions
+
+(\.|^)twitter\.com$
+(\.|^)t\.co$
+(\.|^)reddit\.com$
+redditmedia.com
+redditstatic.com
+discord.com
+youtube.com
+api.farcaster.xyz
+farcaster.xyz
+explorer.farcaster.xyz
